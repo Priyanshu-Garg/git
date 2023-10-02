@@ -1,0 +1,41 @@
+
+Introduction to GIT & its History
+
+
+
+
+
+
+Version Control System 
+It is a technique through which anyone can manage versioning of their projects, application in an efficient manner i.e. if you make any changes in any file of your project then you can easily perform different operations such as updating it on main server or reverting the changes, deleting, roll backing, etc.
+
+History of VCS:
+
+
+images
+Git
+
+
+
+
+1. Local VCS- It was limited to only a local Computer. In this method changes made in files was saved in the local database, but in case local system get lost or crashed, person losses all the data.
+
+2. Centralized VCS- It was made in manner in which a  server and different collaborators was present but was able to push pull a particular version of the project i.e. the centralized system was not capable of managing the complete status, timestamp, snapshot of older version of the same project. Due to which in case a person wants to access older version was not able to access the same.
+
+So after this finally a  distributed version control system was launched which was able to solve all the drawbacks of previous version control systems such as maintaining the full history of a particular project.
+
+Example of Distributed version control system is GIT.
+
+It was developed after Bit Keeper Version Control System was charged for using its services.
+
+Git is a free to use version control system anyone can use.
+
+There are many hosting sites which host git repositories for example- GitHub, GitLab, etc.
+
+Git special features:
+
+a. snapshot of project at every point of time when changes made.
+
+b. almost every operation can be performed locally.
+
+c. Git provide integrity i.e. every file has a checksum associated with it in case a file is changed or modified in between of transmission then the receiver can match its checksum.
